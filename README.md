@@ -6,13 +6,13 @@
 
 
 ## Features
-- 📊 View commit activity from the **last 7 days**
+-  View commit activity from the **last 7 days**
 - Works on **local repos** or **public GitHub repos**
 
 
 
 
-## 🧩 Installation
+##  Installation
 
 Clone the repository and install in editable mode:
 
@@ -43,4 +43,4 @@ Fri | ██░░░░░░░░░░░░░░░░░░░ 3
 Mon | ███████████████████░░ 21
 Tue | █████████████████████ 25
 Wed | █████████████████░░░░ 19
-✅ Total Commits: 73 | Most Active: Tue (25 commits)
+Total Commits: 73 | Most Active: Tue (25 commits)
